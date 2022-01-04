@@ -1,0 +1,13 @@
+html {
+    background-color: white;
+}
+
+div {
+    display: inline-block;
+    margin-left: 100px;
+}
+
+img {
+    max-height: 128px;
+    max-width: 128px;
+}
